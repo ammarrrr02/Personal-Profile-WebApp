@@ -59,7 +59,7 @@
         <p><strong>Student ID🆔:</strong> ${userStudentID}</p>
         <p><strong>Program🎓:</strong> ${userProgram}</p>
         <p><strong>Email Address📧:</strong> ${userEmail}</p>
-        <p><strong>Hobby⚽</strong> ${userHobby}</p>
+        <p><strong>Hobby⚽:</strong> ${userHobby}</p>
         <p><strong>Short Self Intro💬:</strong><br> ${userIntro}</p>
         
         <hr>
